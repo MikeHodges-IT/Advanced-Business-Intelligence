@@ -24,5 +24,5 @@
 
 ## Insightful Survey
 - **Project:** Advanced Survey and Management Systems
-- **Scope:** Created a versatile survey system capable of handling complex survey formats, including matrices. Additionally, developed a sophisticated calendaring system supporting recurring events, an e-card and commerce platform, and a multi-level security system, comparable to the best in the industry at the time.
+- **Scope:** Created a versatile survey system capable of handling complex survey formats, including matrices. 
 
